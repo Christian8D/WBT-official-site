@@ -274,7 +274,7 @@ class WBT extends Component {
 
         {/* Contact Section */}
         <div id="contact_link" />
-        <Form />
+        {/* <Form /> */}
 
         {/* Spacer */}
         <div className="spacer-last">

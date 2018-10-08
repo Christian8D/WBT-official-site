@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/Christian8D"
   },
-  "homepage": "https://github.com/Osmosisss/WBT",
+  "homepage": "http://webbuilderteam.com",
   "devDependencies": {
     "webpack-dev-server": "^2.5.1"
   },
